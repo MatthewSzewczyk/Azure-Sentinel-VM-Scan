@@ -1,4 +1,4 @@
-<h1>Azure Sentinel VM Scan</h1>
+<h1>Microsoft Sentinel VM Scan</h1>
 
 
 
